@@ -1,0 +1,2 @@
+#!/bin/sh
+cat gish2.txt
